@@ -1,6 +1,6 @@
 # pet_app_ui
 
-![Pet App UI](https://user-images.githubusercontent.com/16510597/82233197-d69d6600-9959-11ea-8b14-a53d9a5d7228.png)
+![Pet App UI](https://user-images.githubusercontent.com/16510597/82235592-19147200-995d-11ea-8ce0-8f0fbcc5c62e.jpg)
 
 
 
