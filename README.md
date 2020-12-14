@@ -1,4 +1,7 @@
-# pet_app_ui
+# Pet App UI
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/4lMEkPJG1cI)
 
 ![Pet App UI](https://user-images.githubusercontent.com/16510597/82235592-19147200-995d-11ea-8ce0-8f0fbcc5c62e.jpg)
 
